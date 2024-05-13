@@ -5,6 +5,7 @@
 
 ## Dataset
 The dataset used in this project is sourced from Amazon.
+- 'Data/' https://docs.google.com/spreadsheets/d/1F2V4oXFoWm0fFlupZ9kJDcQRzRGIZY2LkwAyoCAHW_c/edit?usp=sharing
 
 This dataset is having the data of 1K+ Amazon Product's Ratings and Reviews as per their details listed on the official website of Amazon¶
 
