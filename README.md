@@ -115,10 +115,75 @@ The following steps were taken:
 
 ## Data Exploration and Visualization
 
+**Techniques Used:**
+The code employs various techniques such as summary statistics, scatter plots, bar plots, and box plots to explore and visualize the dataset. These techniques help in understanding the distribution, relationships, and patterns within the data.
+
+**Key Insights:**
+Through the data exploration process facilitated by the code-
+* Significant insights and trends are uncovered.
+* Insights include identifying the distribution of product prices.
+* Analyzing the relationship between discount percentage and product rating.
+* Exploring variations in product attributes across different categories.
+
+**Visualization Methods:**
+* The code utilizes various visualization methods such as box plots, scatter plots, bar plots, and histograms to represent and analyze the dataset effectively.
+* Visualizations aid in interpreting complex data structures, identifying outliers, and understanding relationships between variables.
+
+
+
 ***Distribution of Product Prices, to identify notable Outliners***
-![Screenshot 2024-05-13 212521](https://github.com/Riku1014/Amazon-Review-Data-EDA-Project-05/assets/164614767/1905077b-c3b9-40d5-a4bd-2d214beba297)
+![Screenshot 2024-05-13 212521](https://github.com/Riku1014/Amazon-Review-Data-EDA-Project-05/assets/164614767/621c37b7-fb95-4174-b46e-28cf1a82a57f)
+
+
+***Correlation between Discount percentage and Product Rating***
+![Screenshot 2024-05-13 213312](https://github.com/Riku1014/Amazon-Review-Data-EDA-Project-05/assets/164614767/4d81809d-6559-4753-9ab5-11e83c5c2c61)
+
+
+***Product Tends based on Product Price & Rating***
+![Screenshot 2024-05-13 214623](https://github.com/Riku1014/Amazon-Review-Data-EDA-Project-05/assets/164614767/2c739044-9c71-4811-a8b7-8bea10591a4d)
+
+
+***Relationship between Description length and Price or Rating***
+![Screenshot 2024-05-13 214023](https://github.com/Riku1014/Amazon-Review-Data-EDA-Project-05/assets/164614767/ca795ba2-9e4e-4398-aeac-149fa6af769a)
+![Screenshot 2024-05-13 214037](https://github.com/Riku1014/Amazon-Review-Data-EDA-Project-05/assets/164614767/4a4a137c-bc17-4a38-bb4a-2043fc76874f)
+
+
+***Clustering of Products based on Categories and Pricing***
+![Screenshot 2024-05-13 214911](https://github.com/Riku1014/Amazon-Review-Data-EDA-Project-05/assets/164614767/825892f8-c9b5-4ab1-bcc1-9d9f950068c1)
+
+
+
+***Discount Percentage across Different Brands***
+![Screenshot 2024-05-13 215704](https://github.com/Riku1014/Amazon-Review-Data-EDA-Project-05/assets/164614767/d9a7fa3e-025b-4f18-b203-93b1fb64c7da)
+
+
+
+
+**Insights analysis to improve Product Recommendations**
+
+
+***Rating Distribution***
+![Screenshot 2024-05-13 220326](https://github.com/Riku1014/Amazon-Review-Data-EDA-Project-05/assets/164614767/8607c0d1-5394-48b9-b7ab-aa336e53b578)
+
+
+***Product Category Distribution***
+![Screenshot 2024-05-13 220539](https://github.com/Riku1014/Amazon-Review-Data-EDA-Project-05/assets/164614767/582102b7-87a5-402a-8fde-79e11880c29f)
+
+
+***Rating Distribution by Category***
+![Screenshot 2024-05-13 220844](https://github.com/Riku1014/Amazon-Review-Data-EDA-Project-05/assets/164614767/e4f4d13b-f611-4df7-937a-7bb6f7215812)
+
+
+***Rating Count***
+![Screenshot 2024-05-13 221056](https://github.com/Riku1014/Amazon-Review-Data-EDA-Project-05/assets/164614767/f9c5709b-8d8d-4f17-a364-dc2c26d9de81)
+
+
+
+
 
 [Present visualizations of the dataset, including histograms, scatter plots, and other relevant plots to illustrate key insights.]
+
+
 
 ## Conclusion
 [Summarize the findings of the EDA process, highlight any significant discoveries or insights, and discuss potential next steps or areas for further investigation.]
