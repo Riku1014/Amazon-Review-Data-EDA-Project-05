@@ -1,4 +1,4 @@
-# Project Name
+# Amazon-Review-Data-EDA-Project
 
 ## Overview
 This project focuses on Exploratory Data Analysis (EDA) of a dataset sourced from Amazon. The main objectives include importing necessary libraries, performing data cleaning, understanding the dataset, exploring it through various statistical measures, and visualizing key insights.
