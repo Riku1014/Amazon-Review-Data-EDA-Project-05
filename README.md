@@ -1,7 +1,7 @@
 # Amazon Review Data Analysis and Performed EDA
 
 ## Overview
-This project focuses on Exploratory Data Analysis (EDA) of a dataset sourced from Amazon. The main objectives include importing necessary libraries, performing data cleaning, understanding the dataset, exploring it through various statistical measures, and visualizing key insights.
+*This project focuses on Exploratory Data Analysis (EDA) of a dataset sourced from Amazon. The main objectives include importing necessary libraries, performing data cleaning, understanding the dataset, exploring it through various statistical measures, and visualizing key insights.*
 
 ## Dataset
 The dataset used in this project is sourced from Amazon.
@@ -9,22 +9,22 @@ The dataset used in this project is sourced from Amazon.
 This dataset is having the data of 1K+ Amazon Product's Ratings and Reviews as per their details listed on the official website of Amazon¶
 
 **Column Descriptors**
-* product_id - Product ID
-* product_name - Name of the Product
-* category - Category of the Product
-* discounted_price - Discounted Price of the Product
-* actual_price - Actual Price of the Product
-* discount_percentage - Percentage of Discount for the Product
-* rating - Rating of the Product
-* rating_count - Number of people who voted for the Amazon rating
-* about_product - Description about the Product
-* user_id - ID of the user who wrote review for the Product
-* user_name - Name of the user who wrote review for the Product
-* review_id - ID of the user review
-* review_title - Short review
-* review_content - Long review
-* img_link - Image Link of the Product
-* product_link - Official Website Link of the Product
+* `product_id` - Product ID
+* `product_name` - Name of the Product
+* `category` - Category of the Product
+* `discounted_price` - Discounted Price of the Product
+* `actual_price` - Actual Price of the Product
+* `discount_percentage` - Percentage of Discount for the Product
+* `rating` - Rating of the Product
+* `rating_count` - Number of people who voted for the Amazon rating
+* `about_product` - Description about the Product
+* `user_id` - ID of the user who wrote review for the Product
+* `user_name` - Name of the user who wrote review for the Product
+* `review_id` - ID of the user review
+* `review_title` - Short review
+* `review_content` - Long review
+* `img_link` - Image Link of the Product
+* `product_link` - Official Website Link of the Product
 
 
 ## Contents
