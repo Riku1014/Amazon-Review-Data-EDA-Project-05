@@ -176,14 +176,11 @@ Through the data exploration process facilitated by the code-
 
 ## Conclusion
 **Data Quality Assurance:**
-
 *The code ensures data quality through rigorous cleaning and preprocessing steps, enhancing the reliability of subsequent analyses.*
 
 **Visual Representation:**
-
 *Visualizations aid in presenting complex data structures and patterns in an accessible format, facilitating easier interpretation and understanding.*
 
 **Continuous Improvement Encouraged:**
-
 *The exploratory data analysis process is iterative, allowing for continuous refinement and improvement of analytical techniques and insights..*
 
