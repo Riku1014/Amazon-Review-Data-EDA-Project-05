@@ -115,6 +115,9 @@ The following steps were taken:
 
 ## Data Exploration and Visualization
 
+***Distribution of Product Prices, to identify notable Outliners***
+![Screenshot 2024-05-13 212521](https://github.com/Riku1014/Amazon-Review-Data-EDA-Project-05/assets/164614767/1905077b-c3b9-40d5-a4bd-2d214beba297)
+
 [Present visualizations of the dataset, including histograms, scatter plots, and other relevant plots to illustrate key insights.]
 
 ## Conclusion
