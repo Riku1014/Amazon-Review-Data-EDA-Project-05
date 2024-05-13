@@ -187,13 +187,3 @@ Through the data exploration process facilitated by the code-
 
 *The exploratory data analysis process is iterative, allowing for continuous refinement and improvement of analytical techniques and insights..*
 
-## Getting Started
-[Include instructions on how to clone and run the project locally, as well as any prerequisites or dependencies.]
-
-## Contributors
-[List the contributors to the project, including their roles and contributions.]
-
-## License
-[Specify the license under which the project is distributed, if applicable.]
-
-
